@@ -9,7 +9,7 @@
     "url": "https://github.com/gregcousin126/xotopio-extension"
   },
   "description": "the full stack of xotopio extentions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {"vscode": "^1.61.0"},
   "categories": ["Extension Packs"],
    "extensionPack": [ 
